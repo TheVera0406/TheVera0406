@@ -1,14 +1,11 @@
 <p align="center">
-  <a href="#perfil-espanol">
-    <img src="assets/es.svg" alt="Español" width="128" height="38" />
-  </a>
-  &nbsp;
-  <a href="#perfil-english">
-    <img src="assets/en.svg" alt="English" width="128" height="38" />
-  </a>
+  <strong>Selecciona un idioma · Choose a language</strong>
 </p>
 
-<a name="perfil-espanol"></a>
+<details open>
+<summary><strong>🇪🇸 Español</strong></summary>
+
+<br />
 
 <p align="center">
   <img src="assets/banner-es.svg" alt="Ideas que se convierten en soluciones. Desarrollo, aprendizaje y propósito." width="100%" />
@@ -125,19 +122,13 @@ He desarrollado soluciones en contextos académicos, personales y de práctica, 
   <a href="mailto:cristianvera0406@gmail.com">cristianvera0406@gmail.com</a> ·
   <a href="https://github.com/TheVera0406">@TheVera0406</a>
 </p>
-<hr />
 
-<a name="perfil-english"></a>
+</details>
 
-<p align="center">
-  <a href="#perfil-espanol">
-    <img src="assets/es.svg" alt="Español" width="128" height="38" />
-  </a>
-  &nbsp;
-  <a href="#perfil-english">
-    <img src="assets/en.svg" alt="English" width="128" height="38" />
-  </a>
-</p>
+<details>
+<summary><strong>🇬🇧 English</strong></summary>
+
+<br />
 
 <p align="center">
   <img src="assets/banner-en.svg" alt="Turning ideas into solutions. Development, learning and purpose." width="100%" />
@@ -254,3 +245,5 @@ I've developed solutions in academic, personal and internship settings, collabor
   <a href="mailto:cristianvera0406@gmail.com">cristianvera0406@gmail.com</a> ·
   <a href="https://github.com/TheVera0406">@TheVera0406</a>
 </p>
+
+</details>
