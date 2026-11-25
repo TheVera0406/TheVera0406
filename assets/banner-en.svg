@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="350" viewBox="0 0 1280 350" role="img" aria-label="Turning ideas into solutions.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#171b2a"/>
+      <stop offset="0.65" stop-color="#211d30"/>
+      <stop offset="1" stop-color="#42263c"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#a95476" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#a95476" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#d4bddb" stroke-opacity="0.035"/>
+    </pattern>
+  </defs>
+  <rect x="1" y="1" width="1278" height="348" rx="22" fill="url(#bg)" stroke="#594158"/>
+  <rect x="2" y="2" width="1276" height="346" rx="21" fill="url(#grid)"/>
+  <ellipse cx="1055" cy="180" rx="325" ry="240" fill="url(#glow)"/>
+  <rect x="64" y="49" width="26" height="3" rx="1.5" fill="#f3b7a3"/>
+  <text x="104" y="55" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" letter-spacing="2.4" fill="#e2bdd0">LEARN · BUILD · SHARE</text>
+  <text x="62" y="132" font-family="Segoe UI,Arial,sans-serif" font-size="49" font-weight="700" letter-spacing="-1.5" fill="#fff5f2">Turning ideas</text>
+  <text x="62" y="194" font-family="Segoe UI,Arial,sans-serif" font-size="49" font-weight="700" letter-spacing="-1.5" fill="#f3b7a3">into solutions.</text>
+  <text x="64" y="239" font-family="Segoe UI,Arial,sans-serif" font-size="19" fill="#cbc3d4">Development, learning and purpose.</text>
+  <path d="M64 276H660" stroke="#635064" stroke-opacity="0.6"/>
+  <text x="64" y="307" font-family="Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="2" fill="#b7a9c2">CRISTIAN VERA <tspan fill="#76677f"> / </tspan><tspan fill="#f3b7a3">@THEVERA0406</tspan></text>
+  <g transform="translate(811 54)">
+    <rect x="10" y="12" width="378" height="242" rx="15" fill="#0e1120" opacity="0.35"/>
+    <rect width="378" height="242" rx="15" fill="#191c2b" stroke="#6b4664"/>
+    <path d="M0 44H378" stroke="#43364d"/>
+    <circle cx="22" cy="22" r="4" fill="#dc8a9e"/>
+    <circle cx="38" cy="22" r="4" fill="#e4ba95"/>
+    <circle cx="54" cy="22" r="4" fill="#9fc2b2"/>
+    <text x="350" y="26" text-anchor="end" font-family="Consolas,monospace" font-size="11" letter-spacing="1" fill="#b9a7c8">ideas.ts</text>
+    <g font-family="Consolas,monospace" font-size="18">
+      <text x="25" y="83" fill="#c7afe3">const <tspan fill="#f3b7a3">idea</tspan><tspan fill="#e4d8e8"> = &#123;</tspan></text>
+      <text x="25" y="116" fill="#e4d8e8">  learn: <tspan fill="#9fc2b2">true</tspan>,</text>
+      <text x="25" y="149" fill="#e4d8e8">  build: <tspan fill="#9fc2b2">true</tspan>,</text>
+      <text x="25" y="182" fill="#e4d8e8">  share: <tspan fill="#9fc2b2">true</tspan></text>
+      <text x="25" y="215" fill="#e4d8e8">&#125;;</text>
+    </g>
+    <rect x="295" y="191" width="61" height="28" rx="7" fill="#71334f" stroke="#a75d7d"/>
+    <text x="325.5" y="210" text-anchor="middle" font-family="Consolas,monospace" font-size="13" font-weight="700" fill="#ffe2d6">C/V</text>
+  </g>
+</svg>
