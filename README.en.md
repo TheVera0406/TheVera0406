@@ -27,7 +27,7 @@
 
 I'm **Cristian Alejandro Vera Ulloa**, a computing student at UACh in Chile. I enjoy turning real needs into useful software and understanding how each part works: the interface, the logic and the data.
 
-I've contributed to collaborative web development projects and worked on information management solutions, mobile apps, and academic projects in artificial intelligence and compilers. I learn by building, reviewing my work and sharing ideas with others.
+I've contributed to collaborative web development projects and worked on information management solutions, mobile apps, and academic projects. I learn by building, reviewing my work and sharing ideas with others, i thrive in team environments, as I enjoy meeting new people and working collaboratively.
 
 - **My focus:** web development, software architecture and data visualization.
 - **What motivates me:** creating tools that simplify tasks and make information easier to access.
@@ -53,7 +53,6 @@ Tools I use and continue learning through projects and university coursework.
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-20232A?style=for-the-badge&logo=flask&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -71,8 +70,6 @@ Tools I use and continue learning through projects and university coursework.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-71334F?style=for-the-badge)
-![BM25](https://img.shields.io/badge/BM25-544077?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-285C51?style=for-the-badge)
 
 ### Environment and tools
 
@@ -82,8 +79,6 @@ Tools I use and continue learning through projects and university coursework.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=black)
-![Flex](https://img.shields.io/badge/Flex-71334F?style=for-the-badge)
-![Bison](https://img.shields.io/badge/Bison-71334F?style=for-the-badge)
 
 ## Experience and development areas
 
