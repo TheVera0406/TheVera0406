@@ -1,9 +1,13 @@
 <p align="center">
-  <a href="README.md" title="Leer en español"><img src="assets/es-active.svg" alt="Español · idioma actual" width="128" height="38" /></a>
+  <a href="#perfil-espanol">
+    <img src="assets/es.svg" alt="Español" width="128" height="38" />
+  </a>
   &nbsp;
-  <a href="README.en.md" title="Read in English"><img src="assets/en.svg" alt="Read in English" width="128" height="38" /></a>
+  <a href="#perfil-english">
+    <img src="assets/en.svg" alt="English" width="128" height="38" />
+  </a>
 </p>
-
+<a name="perfil-espanol"></a>
 <p align="center">
   <img src="assets/banner-es.svg" alt="Ideas que se convierten en soluciones. Desarrollo, aprendizaje y propósito." width="100%" />
 </p>
@@ -119,3 +123,6 @@ He desarrollado soluciones en contextos académicos, personales y de práctica, 
   <a href="mailto:cristianvera0406@gmail.com">cristianvera0406@gmail.com</a> ·
   <a href="https://github.com/TheVera0406">@TheVera0406</a>
 </p>
+<hr />
+
+<a name="perfil-english"></a>
