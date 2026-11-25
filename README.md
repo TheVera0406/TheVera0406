@@ -27,7 +27,7 @@
 
 Soy **Cristian Alejandro Vera Ulloa**, estudiante de informática en la UACh, Chile. Me gusta convertir necesidades concretas en software útil y entender cómo funciona cada parte: la interfaz, la lógica y los datos.
 
-He participado en proyectos colaborativos de desarrollo web y he trabajado en soluciones para la gestión de información, aplicaciones móviles y proyectos académicos de inteligencia artificial y compiladores. Aprendo construyendo, revisando lo que hago y compartiendo ideas con otras personas.
+He participado en proyectos colaborativos de desarrollo web y he trabajado en soluciones para la gestión de información, aplicaciones móviles y proyectos académicos. Aprendo construyendo, revisando lo que hago y compartiendo ideas con otras personas, me desenvuelvo muy bien en entornos de equipo, ya que disfruto conociendo gente nueva y trabajando de forma colaborativa.
 
 - **Mi foco:** desarrollo web, arquitectura de software y visualización de datos.
 - **Lo que me motiva:** crear herramientas que simplifiquen tareas y faciliten el acceso a la información.
@@ -71,8 +71,6 @@ Herramientas que utilizo y sigo aprendiendo a través de mis proyectos y mi form
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-71334F?style=for-the-badge)
-![BM25](https://img.shields.io/badge/BM25-544077?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-285C51?style=for-the-badge)
 
 ### Entorno y herramientas
 
@@ -82,8 +80,6 @@ Herramientas que utilizo y sigo aprendiendo a través de mis proyectos y mi form
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=black)
-![Flex](https://img.shields.io/badge/Flex-71334F?style=for-the-badge)
-![Bison](https://img.shields.io/badge/Bison-71334F?style=for-the-badge)
 
 ## Experiencia y áreas de desarrollo
 
